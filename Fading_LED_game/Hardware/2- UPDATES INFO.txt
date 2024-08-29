@@ -1,7 +1,0 @@
-v1.0:
-It doesn't even work out of the box lol
-
-v1.1:
-- Button traces corrected. Now they do work out of the box 
-- Newer buttons with increased operating force, cheaper and more common
-- Hole added for optional keychain

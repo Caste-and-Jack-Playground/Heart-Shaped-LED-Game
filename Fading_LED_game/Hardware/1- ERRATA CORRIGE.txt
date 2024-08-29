@@ -1,9 +1,0 @@
-v1.0:
-- Sometimes, without any reason, the game restart.
-  I suppose that's caused by accidentally touching the jtag connection on the back with bare hands.
-- Buttons pad are wrongly connected. They are always shorted 
-- Buttons are too weak and prone to failure
-
-v1.1:
-- Sometimes, without any reason, the game restart.
-  I suppose that's caused by accidentally touching the jtag connection on the back with bare hands.

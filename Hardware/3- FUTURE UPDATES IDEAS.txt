@@ -1,0 +1,1 @@
+- Addig something to count how many points each player has

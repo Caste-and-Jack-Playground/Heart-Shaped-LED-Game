@@ -1,0 +1,3 @@
+v1.0:
+- It may be too much bright in the dark and not visible in daylight.
+- From 40% duty cycle to 100% there is no clearly visible difference by the human eye.
